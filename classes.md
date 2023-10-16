@@ -1,5 +1,5 @@
 A python class is like a blueprint for creating objects in your code.
-
+---
 Example 1.
 class Superhero:
     species = "Human"

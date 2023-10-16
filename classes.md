@@ -33,3 +33,5 @@ print(hero2.fight_railroad_baron())
 print(hero2.angry())
 print(hero3.fight_goddess_hel())
 print(hero3.angry())
+
+[ninja](https://sekol.ninja)

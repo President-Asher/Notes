@@ -1,9 +1,9 @@
 # Glossary 
-Python: A high-level, interpreted programming language known for its simplicity and readability.
+**Python:** A high-level, interpreted programming language known for its simplicity and readability.
 
-Interpreter: A program that reads and executes code, allowing for the execution of Python scripts.
+**Interpreter:** A program that reads and executes code, allowing for the execution of Python scripts.
 
-Variable: A storage location in memory, referenced by a name, that contains data like numbers, strings, or more complex types.
+- Variable: A storage location in memory, referenced by a name, that contains data like numbers, strings, or more complex types.
 
 Function: A reusable piece of code that performs a specific task. It can take arguments and return a result.
 

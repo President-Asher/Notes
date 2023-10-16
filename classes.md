@@ -4,10 +4,10 @@ Example 1.
 class Superhero:
     species = "Human"
     # Initializer / Constuctor
-    def __init__(self, name, power, net_worth):
+    `def __init__(self, name, power, net_worth):
         self.name = name
         self.power = power
-        self.net_worth = net_worth
+        self.net_worth = net_worth`
 
     # Methods
     def fight_labatt(self):

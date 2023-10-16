@@ -1,3 +1,4 @@
+# Glossary 
 Python: A high-level, interpreted programming language known for its simplicity and readability.
 
 Interpreter: A program that reads and executes code, allowing for the execution of Python scripts.
